@@ -1,0 +1,13 @@
+.container {
+    background-color: red;
+    height: 200px;
+    
+}
+img {
+    border-radius: 50%;
+    height: 1px;
+}
+.card1 {
+    background-color: grey;
+    height: 600px;
+}
